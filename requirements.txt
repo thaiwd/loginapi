@@ -1,0 +1,4 @@
+djangorestframework
+django-rest-knox
+djoser
+mysqlclient
